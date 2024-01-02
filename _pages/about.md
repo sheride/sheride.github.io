@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Elijah Sheridan's personal website
+I am a graduate student in the [Liam McAllister Group](https://liammcallistergroup.com/) studying string phenomenology. My research interests include the particle physics of string compactifications, data scientific approaches to problems in high energy theory, and mathematical classifications in particle model building. I have a research background in particle phenomenology (collider and astrophysical), machine learning, and model building.
 
 <!--- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
